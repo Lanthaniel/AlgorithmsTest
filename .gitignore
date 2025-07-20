@@ -1,0 +1,29 @@
+# Build directory
+build/
+bin/
+lib/
+out/
+
+# CMake generated files
+CMakeCache.txt
+CMakeFiles/
+cmake_install.cmake
+Makefile
+*.cbp
+*.xcodeproj
+*.sln
+*.suo
+*.user
+*.vcproj
+*.vcxproj
+*.vcxproj.filters
+
+# IDE files
+.vscode/
+.idea/
+
+# Executables and libraries
+*.exe
+*.dll
+*.so
+*.dylib
