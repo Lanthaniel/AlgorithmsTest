@@ -1,8 +1,8 @@
 #include <iostream>
-#include "Chapter4.h"
+#include "Chapter04.h"
 
 int main(int, char**){
     std::cout << "Hello, from AlgorithmsTest!\n";
 
-    Chapter4 chapter4;
+    Chapter04 chapter04;
 }

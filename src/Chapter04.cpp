@@ -1,26 +1,26 @@
-#include "Chapter4.h"
+#include "Chapter04.h"
 #include <iostream>
 
-Chapter4::Chapter4() {
+Chapter04::Chapter04() {
     std::cout << "Hello, from Chapter 4!\n";
 }
 
-Chapter4::~Chapter4() {
+Chapter04::~Chapter04() {
     // Destructor implementation
 }
 
-void Chapter4::Exercise1() {
+void Chapter04::Exercise1() {
     // TODO: Implement Exercise 1
 }
 
-void Chapter4::Exercise2() {
+void Chapter04::Exercise2() {
     // TODO: Implement Exercise 2
 }
 
-void Chapter4::Exercise3() {
+void Chapter04::Exercise3() {
     // TODO: Implement Exercise 3
 }
 
-void Chapter4::Exercise4() {
+void Chapter04::Exercise4() {
     // TODO: Implement Exercise 4
 }

@@ -1,10 +1,10 @@
-#ifndef CHAPTER4_H
-#define CHAPTER4_H
+#ifndef CHAPTER04_H
+#define CHAPTER04_H
 
-class Chapter4 {
+class Chapter04 {
 public:
-    Chapter4();
-    ~Chapter4();
+    Chapter04();
+    ~Chapter04();
 
     void Exercise1();
     void Exercise2();
